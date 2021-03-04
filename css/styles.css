@@ -37,6 +37,7 @@ body header .form {
 body h3 {
   margin: 1em;
   margin-top: 2em;
+  text-align: center;
 }
 body .main {
   display: flex;
@@ -45,9 +46,6 @@ body .main {
   align-items: center;
   flex-wrap: wrap;
   margin: 1em;
-  text-align: center;
-}
-body .main h1 {
   text-align: center;
 }
 body .main .imgBox {
